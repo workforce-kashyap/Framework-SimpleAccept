@@ -1,0 +1,7 @@
+TestClass,testing.framework.simple.accept.TestSampleTestFile,,,
+
+TestParams,id,name123,dateOfBirth,age?,input?,Result
+================================================================================
+1,Name-1,{today}-3650,10,?
+Exception occurred while setting values of : [id, name123, dateOfBirth] of class class testing.framework.simple.accept.TestSampleTestFile
+================================================================================

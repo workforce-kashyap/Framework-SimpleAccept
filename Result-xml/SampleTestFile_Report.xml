@@ -1,0 +1,61 @@
+<Report>
+	<TestClass>testing.framework.simple.accept.TestSampleTestFile</TestClass>
+	<TestResultGroup>
+		<TestResult>
+			<id>1</id>
+			<name>Name-1</name>
+			<dateOfBirth>{today}-3650</dateOfBirth>
+			<age expected>10</age>
+			<input expected>1|Name-1|Wed Mar 08 16:23:11 IST 2006</input>
+			<Result>Passed.</Result>
+		</TestResult>
+		<TestResult>
+			<id>2</id>
+			<name>Name-2</name>
+			<dateOfBirth>{today}-365</dateOfBirth>
+			<age expected>1</age>
+			<input expected>2|Name-2|Fri Mar 06 16:23:11 IST 2015</input>
+			<Result>Passed.</Result>
+		</TestResult>
+		<TestResult>
+			<id>3</id>
+			<name>Name-3</name>
+			<dateOfBirth>{today}-3650</dateOfBirth>
+			<age expected>10</age>
+			<input expected>3|Name-3|Wed Mar 08 16:23:11 IST 2006</input>
+			<Result>Passed.</Result>
+		</TestResult>
+		<TestResult>
+			<id>4</id>
+			<name>Name-4</name>
+			<dateOfBirth>{today}-3650</dateOfBirth>
+			<age expected>10</age>
+			<input expected>4|Name-4|Wed Mar 08 16:23:11 IST 2006</input>
+			<Result>Passed.</Result>
+		</TestResult>
+		<TestResult>
+			<id>5</id>
+			<name>Name-5</name>
+			<dateOfBirth>{today}-365</dateOfBirth>
+			<age expected>1</age>
+			<input expected>5|Name-5|Fri Mar 06 16:23:11 IST 2015</input>
+			<Result>Passed.</Result>
+		</TestResult>
+	</TestResultGroup>
+	<TestResultGroup>
+		<TestResult>
+			<id>1</id>
+			<name>Name-1</name>
+			<dateOfBirth>{today}-3650</dateOfBirth>
+			<name expected>Name-1</name>
+			<Result>Passed.</Result>
+		</TestResult>
+		<TestResult>
+			<id>2</id>
+			<name>Name-2</name>
+			<dateOfBirth>{today}-365</dateOfBirth>
+			<name expected>Name-2</name>
+			<Result>Passed.</Result>
+		</TestResult>
+	</TestResultGroup>
+</Report>

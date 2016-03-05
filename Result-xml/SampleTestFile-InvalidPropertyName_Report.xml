@@ -1,0 +1,10 @@
+<Report>
+	<TestClass>testing.framework.simple.accept.TestSampleTestFile</TestClass>
+	<TestResultGroup>
+		<TestResult>
+			<Error>[1,Name-1,{today}-3650,10,?] - [Exception occurred while
+				setting values of : [id, name123, dateOfBirth] of class class
+				testing.framework.simple.accept.TestSampleTestFile]</Error>
+		</TestResult>
+	</TestResultGroup>
+</Report>

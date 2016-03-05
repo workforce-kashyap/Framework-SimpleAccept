@@ -1,0 +1,9 @@
+<Report>
+	<TestClass>testing.framework.simple.accept.TestSampleTestFile</TestClass>
+	<TestResultGroup>
+		<TestResult>
+			<Error>[1,Name-1,{today}-3650,10,] - [Number-of-values 4 not matching
+				with number-of-properties 5]</Error>
+		</TestResult>
+	</TestResultGroup>
+</Report>

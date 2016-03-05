@@ -1,0 +1,4 @@
+================================================================================
+TestClass,testing.framework.simple.accept.TestSampleTestFile123,,,
+ClassNotFoundException occurred while creating Class object for : testing.framework.simple.accept.TestSampleTestFile123
+================================================================================
